@@ -3,7 +3,7 @@
 
 ![JOGA Logo](assets/readme/readme.png)
 ---
-<h2 align="center">`🥅` WHERE FOOTBALL MEETS STREET `🚧`</h2>
+> <h2 align="center">🥅 WHERE FOOTBALL MEETS STREET 🚧</h2>
 ---
 
 ## `📑` WHAT IS JOGA?
