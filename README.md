@@ -15,7 +15,7 @@
 ### `⚜️` DESIGN + DEV
 > designed by in sketch<br>
 > coded in HTML/CSS/JS<br>
-> by [@majiinbju](https://github.com/majiinbju) 
+> by [@majiinbju](https://github.com/majiinbju)
 ---
 ### `🪪` LICENSE
 > JOGA is [MIT licensed](https://github.com/majiinbju/joga/blob/main/LICENSE)
