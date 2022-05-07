@@ -1,4 +1,4 @@
-# `⚽️` JOGA
+<h1 align="center">⚽️ JOGA</h1>
 ---
 
 ![JOGA Logo](assets/readme/readme.png)
